@@ -5,10 +5,8 @@ IQ team is curating the different publicly available datasets and making it avai
 https://covid19live.insightsquotient.com/#/dashboard
 
 ## Data Sources
-1. Global dashboard is sourced from: 
-      - [JHU CSSE data](https://github.com/CSSEGISandData/COVID-19)
-2. US Dashboard is sourced from:
-      - [The New York Times](https://github.com/nytimes/covid-19-data)
+1. Global case data from [JHU CSSE data](https://github.com/CSSEGISandData/COVID-19)
+2. US State & county level data from [The New York Times](https://github.com/nytimes/covid-19-data)
 
 ## 
 
