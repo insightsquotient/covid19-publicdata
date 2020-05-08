@@ -14,7 +14,7 @@ https://covid19live.insightsquotient.com/#/dashboard
 1. Global data and US state & county data is refreshed at different times and different sources. Therefore, there is always a discrepancy in data for US in Global and US specific dashboard.
 2. For below countries, the **_recovery data is not provided for each region_**. Subsequently the derived data like mortality and survival rates are also inaccurate for these countries.
     - **Countries:** _United Kingdom, Netherlands, France, Tajikistan_
-3. 
+3. Data corrections are reported as available and adjusted in source data. For example, if cumulative number of cases (in time series data) is lower than yesterday for some adjustment
 
 ## Contact Us
 If you have questions about the data or licensing conditions, please [contact us](https://www.insightsquotient.com/contact). 
