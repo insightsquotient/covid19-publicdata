@@ -21,6 +21,6 @@ If you have questions about the data or licensing conditions, please [contact us
 
 ## Terms of Use
 1. This website and its contents herein, including all data, mapping, and analysis (“Website”), copyright 2020 UST Global Inc. ("Company"), all rights reserved, is provided solely for commercial, public health, educational, and academic research purposes. You should not rely on this Website for medical advice or guidance.
-2. For use of the data by commercial parties and/or in commerce or attribution, please [contact us](https://www.insightsquotient.com/contact). 
+2. For use of the Website by commercial parties and/or in commerce or attribution, please [contact us](https://www.insightsquotient.com/contact). 
 3. The Website relies upon publicly available data from multiple sources that do not always agree. The Company hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, reliability, completeness, and non-infringement of third party rights.
 4. These terms and conditions are subject to change. Your use of the Website constitutes your acceptance of these terms and conditions and any future modifications thereof.
