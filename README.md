@@ -2,7 +2,7 @@
 IQ team is curating the different publicly available datasets and making it available through dashboards and APIs. Below are the different considerations and actions, we applied to curate the data.
 
 **Visual Dashboards:**  
-https://covid19live.insightsquotient.com/#/dashboard
+https://covid19live.insightsquotient.com/#/dashboard  
 https://senze.insightsquotient.com
 
 ## Data Sources
