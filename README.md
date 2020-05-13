@@ -2,8 +2,8 @@
 IQ team is curating the different publicly available datasets and making it available through dashboards and APIs. Below are the different considerations and actions, we applied to curate the data.
 
 **Visual Dashboards:**  
-https://covid19live.insightsquotient.com/#/dashboard  
-https://senze.insightsquotient.com
+1. https://covid19live.insightsquotient.com/#/dashboard  
+2. https://senze.insightsquotient.com
 
 ## Data Sources
 1. Global case data from [JHU CSSE data](https://github.com/CSSEGISandData/COVID-19)
