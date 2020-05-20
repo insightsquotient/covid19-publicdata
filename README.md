@@ -2,8 +2,9 @@
 IQ team is curating the different publicly available datasets and making it available through dashboards and APIs. Below are the different considerations and actions, we applied to curate the data.
 
 **Visual Dashboards:**  
-1. https://covid19live.insightsquotient.com/#/dashboard  
-2. https://senze.insightsquotient.com
+1. Primary Dashboard [https://covid19live.insightsquotient.com/#/dashboard]
+2. Dashboard using Senze [https://senze.insightsquotient.com]
+3. Dashboard using Superset [https://superset.insightsquotient.com/superset/dashboard/COVID-19/?standalone=true]
 
 ## Data Sources
 1. Global case data from [JHU CSSE data](https://github.com/CSSEGISandData/COVID-19)
@@ -21,7 +22,7 @@ IQ team is curating the different publicly available datasets and making it avai
 If you have questions about the data or licensing conditions, please [contact us](https://www.insightsquotient.com/contact). 
 
 ## Terms of Use
-1. This website and its contents herein, including all data, mapping, and analysis (“Website”), copyright 2020 UST Global Inc. ("Company"), all rights reserved, is provided solely for commercial, public health, educational, and academic research purposes. You should not rely on this Website for medical advice or guidance.
+1. This website and its contents herein, including all data, mapping, and analysis (“Website”), copyright 2020 UST Global Inc. ("Company"), all rights reserved, is provided solely for public health, educational, and academic research purposes. You should not rely on this Website for medical advice or guidance.
 2. For use of the Website by commercial parties and/or in commerce or attribution, please [contact us](https://www.insightsquotient.com/contact). 
 3. The Website relies upon publicly available data from multiple sources that do not always agree. The Company hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, reliability, completeness, and non-infringement of third party rights.
 4. These terms and conditions are subject to change. Your use of the Website constitutes your acceptance of these terms and conditions and any future modifications thereof.
