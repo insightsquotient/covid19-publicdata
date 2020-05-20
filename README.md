@@ -3,8 +3,8 @@ IQ team is curating the different publicly available datasets and making it avai
 
 **Visual Dashboards:**  
 1. [Primary Dashboard](https://covid19live.insightsquotient.com/#/dashboard)
-2. [Dashboard](https://senze.insightsquotient.com) using Senze
-3. [Dashboard](https://superset.insightsquotient.com/superset/dashboard/COVID-19/?standalone=true) using Superset
+2. [Dashboard](https://senze.insightsquotient.com) using [Senze](https://www.insightsquotient.com/products)
+3. [Dashboard](https://superset.insightsquotient.com/superset/dashboard/COVID-19/?standalone=true) using [Superset](https://superset.incubator.apache.org/index.html)
 
 ## Data Sources
 1. Global case data from [JHU CSSE data](https://github.com/CSSEGISandData/COVID-19)
