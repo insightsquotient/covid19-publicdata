@@ -2,9 +2,9 @@
 IQ team is curating the different publicly available datasets and making it available through dashboards and APIs. Below are the different considerations and actions, we applied to curate the data.
 
 **Visual Dashboards:**  
-1. [Primary Dashboard] (https://covid19live.insightsquotient.com/#/dashboard)
-2. [Dashboard using Senze] (https://senze.insightsquotient.com)
-3. [Dashboard using Superset] (https://superset.insightsquotient.com/superset/dashboard/COVID-19/?standalone=true)
+1. [Primary Dashboard](https://covid19live.insightsquotient.com/#/dashboard)
+2. [Dashboard using Senze](https://senze.insightsquotient.com)
+3. [Dashboard using Superset](https://superset.insightsquotient.com/superset/dashboard/COVID-19/?standalone=true)
 
 ## Data Sources
 1. Global case data from [JHU CSSE data](https://github.com/CSSEGISandData/COVID-19)
