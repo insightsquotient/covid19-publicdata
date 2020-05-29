@@ -1,5 +1,5 @@
 # COVID-19 Data Repository by InsightsQuotient at UST Global
-IQ team is curating the different publicly available datasets and making it available through dashboards and APIs. Below are the different considerations and actions, we applied to curate the data.
+IQ team is curating the different publicly available datasets and making it available through dashboards and APIs. Following are the different considerations to curate the data and to visualize the data.
 
 **Visual Dashboards:**  
 1. [Primary Dashboard](https://covid19live.insightsquotient.com/#/dashboard)
@@ -18,9 +18,9 @@ IQ team is curating the different publicly available datasets and making it avai
 
 ## Data Quality Observations
 1. Global data and US state & county data is refreshed at different times and different sources. Therefore, there is always a discrepancy in data for US in Global and US specific dashboard.
-2. For few countries, the **_recovery data is not provided for each region_**. Subsequently the derived data like mortality and survival rates are not presented for these countries. The countries are:
+2. For few countries, the **_recovery data is not provided for each region_**. Subsequently the percentage and rank are not derived for these countries. The countries are:
     - **Countries:** _United Kingdom, Netherlands_
-3. Data corrections are reported as available and adjusted in source data. For example, if cumulative number of cases (in time series data) is lower than yesterday for some adjustment, it may show as -ve for a day.
+3. Data corrections are reported as available and adjusted in source data. For example, if cumulative number of cases (in time series data) is lower than yesterday for some adjustment, it may show as -ve for a day. Though in isolation the data for a day may seem non-sensical but the aggregated or cumulative number will be right.
 
 ## Contact Us
 If you have questions about the data or licensing conditions, please [contact us](https://www.insightsquotient.com/contact). 
