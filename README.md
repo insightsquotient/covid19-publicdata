@@ -15,7 +15,7 @@ IQ team is curating the different publicly available datasets and making it avai
     - The data is updated once a day.
 4. CovidActNow Forecasting model [CovidActNow](https://covidactnow.org/resources#csv-files)
     - The data is updated once a day.
-5. Country-wise Government Measures Dataset[ACAPS COVID-19](https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset)
+5. Country-wise Government Measures Dataset [ACAPS COVID-19](https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset)
     - The data is updated once a day.
 
 
