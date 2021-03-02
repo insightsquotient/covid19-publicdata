@@ -18,7 +18,7 @@ IQ team is curating the different publicly available datasets and making it avai
 5. Country-wise Government Measures Dataset [ACAPS COVID-19](https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset)
     - The data is updated once a day.
 
-*More (such as Vaccine data) are coming soon...*
+***More (such as Vaccine data) are coming soon...***
 
 ## Data Quality Observations
 1. Global data and US state & county data is refreshed at different times and different sources. Therefore, there is always a discrepancy in data for US in Global and US specific dashboard.
